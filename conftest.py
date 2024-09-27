@@ -6,3 +6,9 @@ def setup():
     print("configure for all file setup")
     yield
     print("after tc execution")
+
+
+@pytest.fixture()
+def dataloade():
+    print("user profile data is being created")
+    return ["rahul","sharma","xyz@gmail.com"]

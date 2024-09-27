@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4a56256-d974-490f-806d-6eb16be52af2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_fixtureunderclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_fixturedata.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_try.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_fixture.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_fixture.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for test_fixtureunderclass.TestExample.executor": "Run",
+    "Python tests.Python tests for test_fixtureunderclass.Testexample.executor": "Run",
+    "Python tests.Python tests for test_fixtureunderclass.Testexample.test_fixturedemo.executor": "Run",
+    "Python tests.Python tests for test_fixtureunderclass.Testexample.test_fixturedemo1.executor": "Run",
+    "Python tests.Python tests in test_fixture.py.executor": "Run",
+    "Python tests.Python tests in test_fixturedata.py.executor": "Run",
     "Python tests.pytest in Test_fixtureunderclass.py.executor": "Run",
     "Python tests.pytest in pytest.executor": "Run",
     "Python tests.pytest in test_fixture.py.executor": "Run",
@@ -64,8 +69,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_fixtureunderclass.TestExample">
-    <configuration name="Python tests for test_fixtureunderclass.TestExample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in test_fixturedata.py">
+    <configuration name="Python tests for test_fixtureunderclass.Testexample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pytest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,8 +81,68 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_fixtureunderclass.TestExample&quot;" />
+      <option name="_new_target" value="&quot;test_fixtureunderclass.Testexample&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_fixtureunderclass.Testexample.test_fixturedemo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_fixtureunderclass.Testexample.test_fixturedemo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_fixtureunderclass.Testexample.test_fixturedemo1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_fixtureunderclass.Testexample.test_fixturedemo1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_fixture.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_fixture.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_fixturedata.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_fixturedata.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in test_fixtureunderclass.py" type="tests" factoryName="py.test" nameIsGenerated="true">
@@ -100,11 +165,19 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.pytest in test_fixtureunderclass.py" />
-      <item itemvalue="Python tests.Python tests for test_fixtureunderclass.TestExample" />
+      <item itemvalue="Python tests.Python tests for test_fixtureunderclass.Testexample" />
+      <item itemvalue="Python tests.Python tests for test_fixtureunderclass.Testexample.test_fixturedemo" />
+      <item itemvalue="Python tests.Python tests for test_fixtureunderclass.Testexample.test_fixturedemo1" />
+      <item itemvalue="Python tests.Python tests in test_fixture.py" />
+      <item itemvalue="Python tests.Python tests in test_fixturedata.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_fixtureunderclass.TestExample" />
+        <item itemvalue="Python tests.Python tests in test_fixturedata.py" />
+        <item itemvalue="Python tests.Python tests for test_fixtureunderclass.Testexample" />
+        <item itemvalue="Python tests.Python tests for test_fixtureunderclass.Testexample.test_fixturedemo1" />
+        <item itemvalue="Python tests.Python tests for test_fixtureunderclass.Testexample.test_fixturedemo" />
+        <item itemvalue="Python tests.Python tests in test_fixture.py" />
       </list>
     </recent_temporary>
   </component>
